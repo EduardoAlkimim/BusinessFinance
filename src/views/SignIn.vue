@@ -23,7 +23,7 @@
                     </div>
 
                     <div class="flex justify-end">
-                        <a href="#" class="text-sm text-roxoCustom hover:underline">Forgot Password?</a>
+                        <router-link to="/Forgot" href="#" class="text-sm text-roxoCustom hover:underline">Forgot Password?</router-link>
                     </div>
 
                     <button type="submit"

@@ -22,7 +22,7 @@
                         Reset Password
                     </button>
                     <div class="flex justify-center">
-                        <a href="#" class="text-sm text-roxoCustom hover:underline">Back</a>
+                        <router-link to="/Login" href="#" class="text-sm text-roxoCustom hover:underline">Back</router-link >
                     </div>
                 </form>
             </div>
